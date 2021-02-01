@@ -141,3 +141,5 @@ function calculateWinner(squares) {
   }
   return null;
 }
+
+export default Game;
